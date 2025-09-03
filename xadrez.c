@@ -32,5 +32,17 @@ int main() {
         j++;
     }while (j <= casasrainha);
 
+    
+    //Movimentacao cavalo
+    printf ("Movimentacao Cavalo \n");
+    for ( i= 1; i<=2; i++) {
+        printf("Baixo\n");
+    }
+     i= 1 ;
+    while (i<=1) {
+        printf("esquerda\n");
+        i++;
+    }
+
     return 0;
 }
